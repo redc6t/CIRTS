@@ -1,0 +1,11 @@
+CAN Infrared Temperature Sensor
+
+v2.2
+- Added 6-pin idc connector for ESP-PROG
+- General polish on routing
+- Reorganised and optimised spacing and pads for CAN and PWR
+- Added 3.2x2.5 4 pads Crystal 
+- Added space for CAN_ID and LOCATION
+
+v2.3 (Work in progress)
+- NOTHING TO DO ATM
